@@ -1,0 +1,47 @@
+header{
+  width: 100%px;
+  height: 50px;
+  background-color: black;
+
+padding-bottom: 0;
+  overflow: hidden;
+  margin-bottom: 0;
+
+}
+
+th{
+width: 100px;
+padding-bottom: 12px;
+padding-top: 12px;
+ }
+
+a{
+  color: white;
+  font-style:normal;
+  font-family: serif;
+
+}
+p{
+  column-count: 4;
+  column-rule: 3px solid black;
+  padding: 5px 5px 5px 5px;
+}
+
+footer{
+  background-color: black;
+}
+h1{
+  padding-top: 15px;
+  padding-left:5px;
+}
+h2{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+main{
+  background-color: #EBEAE5;
+  margin-top: -20px;
+
+}
